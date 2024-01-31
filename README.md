@@ -1,0 +1,1 @@
+# ai_helper_software_design_document
